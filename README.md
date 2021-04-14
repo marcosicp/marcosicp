@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/marcos-casor-pressacco-086ab321/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
   <a href="https://www.facebook.com/marcos.casor/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marcos casor" height="30" width="40" /></a>
   <a href = "mailto: marcos.casor@gmail.com">
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
@@ -14,15 +14,12 @@
 <p align="center">
   <em>
     Hey! I am Marcos, a graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Univercity of engineering & technology</b>r</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
   </em> 
   <br>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 
 ✔ I’m currently developing **EnSierrasChicas** **Flutter**<br>
 ✔ I’m currently learning **Flutter** & **Firebase**<br>
@@ -31,7 +28,7 @@
 <br><br><br>
  
 
-***Languages & Tools I Have Use ***
+**Languages & Tools I Have Use **
 <p align="left">
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
@@ -52,7 +49,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosicp&show_icons=true&locale=en&layout=compact" alt="marcosicp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel
-  .app/api?username=marcosicp&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+  .app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /></p>
 
 <hr>
 
