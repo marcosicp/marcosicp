@@ -52,11 +52,11 @@
     <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>
     <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
-<p align="center">
+<p  align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosicp&show_icons=true&locale=en&layout=compact" alt="marcosicp" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
+<p  align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
 </p>
 
