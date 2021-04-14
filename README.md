@@ -5,8 +5,12 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
   <a href="https://www.facebook.com/marcos.casor/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marcos casor" height="30" width="40" /></a>
-  <a href = "mailto: marcos.casor@gmail.com">
+  <a href="mailto: marcos.casor@gmail.com">
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/marcos.casor/" target="blank">
+    <img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/marcosicp/" target="blank">
+    <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
 </p>
 
 
@@ -52,6 +56,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /></p>
 
-<hr>
-
-<hr>
