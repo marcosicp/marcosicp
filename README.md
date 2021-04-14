@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marcos Casor</h1>
 <h3 align="center">Software Developer | Mobile Enthusiast</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos.casor/" target="blank">
+  <a href="https://www.linkedin.com/in/marcos-casor-pressacco-086ab321/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
   <a href="https://www.facebook.com/marcos.casor/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -26,15 +26,13 @@
 
 ✔ I’m currently developing **EnSierrasChicas** **Flutter**<br>
 ✔ I’m currently learning **Flutter** & **Firebase**<br>
+✔ **VSCode** rocks!<br>
 ✔ Always open to learn new tech!😉<br>
 <br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Use...***
+***Languages & Tools I Have Use ***
 <p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
@@ -51,10 +49,10 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosicp&show_icons=true&locale=en&layout=compact" alt="marcosicp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel
-  .app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+  .app/api?username=marcosicp&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 <hr>
 
