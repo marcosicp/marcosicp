@@ -61,9 +61,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
 </p>
 
+<p align="center">
 <br>
-<hr style="width: 100%;margin-top: 20%;">
-<ol style="margin-top: 20%;">
+<hr>
+<ol>
     <li>
         <p align="left">
             <!-- <h1>Projects</h1> -->
@@ -95,3 +96,4 @@
         </p>
     </li>
 </ol>
+</p>
