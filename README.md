@@ -62,8 +62,8 @@
 </p>
 
 <br>
-<hr style="width: 100%;margin-top: 20%;"></hr>
-<ol>
+<hr style="width: 100%;margin-top: 20%;">
+<ol style="margin-top: 20%;">
     <li>
         <p align="left">
             <!-- <h1>Projects</h1> -->
