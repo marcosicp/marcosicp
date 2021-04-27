@@ -62,7 +62,7 @@
 </p>
 
 <br>
-<hr style="width: 100%;margin-top: 20%;">
+<hr style="width: 100%;margin-top: 20%;"></hr>
 <ol>
     <li>
         <p align="left">
