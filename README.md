@@ -17,7 +17,7 @@
 
 <p align="center">
   <em>
-    Hey! I am Marcos, a graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Univercity of engineering & technology</b>r</a>. <br>
+    Hey! I am Marcos, a graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Institute</b></a>. <br>
     A <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
   </em> 
   <br>
@@ -61,12 +61,37 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
 </p>
 
-<hr>
-<h1>Projects</h1>
-
-<p  align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
-  <h1>EnSierrasChicas (Flutter Mobile)
-  </h1>
-</p>
-
+<br>
+<hr style="width: 100%;">
+<ol>
+    <li>
+        <p align="left">
+            <!-- <h1>Projects</h1> -->
+          <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /> -->
+          <h1>EnSierrasChicas (Flutter Firebase)
+          </h1>
+        </p>
+    </li>
+    <li>
+        <p align="left">
+            <!-- <h1>Projects</h1> -->
+          <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /> -->
+          <h1>EnSierrasChicas Comercios (Angular Firebase)
+          </h1>
+        </p>
+    </li>
+    <li>
+        <p align="left">
+            <!-- <h1>Projects</h1> -->
+          <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /> -->
+          <h1>KieroKuentos (Flutter Firebase)
+          </h1>
+        </p>
+    </li>
+    <li>
+        <p align="left">
+            <h1>Clinker (Web JS CSS)
+          </h1>
+        </p>
+    </li>
+</ol>
