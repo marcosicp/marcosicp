@@ -61,6 +61,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
 </p>
 
+<hr>
 <h1>Projects</h1>
 
 <p  align="center">
