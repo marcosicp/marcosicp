@@ -94,7 +94,7 @@
         </li>
         <li>
             <p align="left">
-            <h1>Clinker (Web JS CSS)
+            <h1><a href="https://github.com/marcosicp/clinker-web">Clinker (Web JS CSS)</a>
             </h1>
             </p>
         </li>
