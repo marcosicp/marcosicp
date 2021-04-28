@@ -2,8 +2,11 @@
     I'm Marcos</h1>
 <h3 align="center">Software Developer | Mobile Enthusiast</h3>
 <p align="center">
+    <a href="https://stackoverflow.com/users/1518978" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow"
+            height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/marcos-casor-pressacco-086ab321/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia"
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
             height="30" width="40" /></a>
     <a href="https://www.facebook.com/marcos.casor/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marcos casor"
@@ -20,7 +23,7 @@
 
 <p align="center">
     <em>
-        Hey! I am Marcos, a graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Institute</b></a>. <br>
+        Let me tell you about myself, I'am graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Institute</b></a>. <br>
         A <b>Full-Stack Software Developer</b> <img
             src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and
         a <b>Competitive Programming Enthusiast</b>&nbsp;<img
