@@ -44,7 +44,7 @@
 
 **Languages** **&** **Tools** **I** **Have** **Use**
 <p align="left">
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
+    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </code>
     <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
     <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
     <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
@@ -57,6 +57,7 @@
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> </code>
+    
     <hr>
 </p>
 <p align="center">
