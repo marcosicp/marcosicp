@@ -71,6 +71,7 @@
         alt="marcosicp" width="410" />
 </p>
 
+<hr width="100px">
 <p align="center">
     ✔ EnSierrasChicas (Flutter Firebase)
     ✔ EnSierrasChicas Comercios (Angular Firebase)
