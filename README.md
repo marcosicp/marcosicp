@@ -72,7 +72,7 @@
         alt="marcosicp" width="410" />
 </p>
 
-<p align="center" style="margin-top:20%">
+<p align="bottom" style="margin-top:100px">
     <ol>
         <li>
             <p align="left">
