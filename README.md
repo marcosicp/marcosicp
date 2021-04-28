@@ -63,38 +63,39 @@
 </p>
 
 <p align="center">
-   <img align="left"
+    <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosicp&show_icons=true&locale=en&layout=compact"
         alt="marcosicp" />
 
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en"
+        alt="marcosicp" width="410" />
 </p>
 
 <p align="center">
-    <ol>
-        <li>
-            <p align="left">
-            <h1>EnSierrasChicas (Flutter Firebase)
-            </h1>
-            </p>
-        </li>
-        <li>
-            <p align="left">
-            <h1>EnSierrasChicas Comercios (Angular Firebase)
-            </h1>
-            </p>
-        </li>
-        <li>
-            <p align="left">
-            <h1>KieroKuentos (Flutter Firebase)
-            </h1>
-            </p>
-        </li>
-        <li>
-            <p align="left">
-            <h1>Clinker (Web JS CSS)
-            </h1>
-            </p>
-        </li>
-    </ol>
+<ol>
+    <li>
+        <p align="left">
+        <h1>EnSierrasChicas (Flutter Firebase)
+        </h1>
+        </p>
+    </li>
+    <li>
+        <p align="left">
+        <h1>EnSierrasChicas Comercios (Angular Firebase)
+        </h1>
+        </p>
+    </li>
+    <li>
+        <p align="left">
+        <h1>KieroKuentos (Flutter Firebase)
+        </h1>
+        </p>
+    </li>
+    <li>
+        <p align="left">
+        <h1>Clinker (Web JS CSS)
+        </h1>
+        </p>
+    </li>
+</ol>
 </p>
