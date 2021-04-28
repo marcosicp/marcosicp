@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
-    I'm Marcos Casor</h1>
+    I'm Marcos</h1>
 <h3 align="center">Software Developer | Mobile Enthusiast</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/marcos-casor-pressacco-086ab321/" target="blank">
