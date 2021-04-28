@@ -71,34 +71,32 @@
         alt="marcosicp" width="410" />
 </p>
 
-<hr width="100%">
+<hr width="100%" margin-top="5%">
 <p align="center">
-    ✔ EnSierrasChicas (Flutter Firebase)
-    ✔ EnSierrasChicas Comercios (Angular Firebase)
-<ol>
-    <li>
-        <p align="left">
-        <h1>EnSierrasChicas (Flutter Firebase)
-        </h1>
-        </p>
-    </li>
-    <li>
-        <p align="left">
-        <h1>EnSierrasChicas Comercios (Angular Firebase)
-        </h1>
-        </p>
-    </li>
-    <li>
-        <p align="left">
-        <h1>KieroKuentos (Flutter Firebase)
-        </h1>
-        </p>
-    </li>
-    <li>
-        <p align="left">
-        <h1>Clinker (Web JS CSS)
-        </h1>
-        </p>
-    </li>
-</ol>
+    <ol>
+        <li>
+            <p align="left">
+            <h1>EnSierrasChicas (Flutter Firebase)
+            </h1>
+            </p>
+        </li>
+        <li>
+            <p align="left">
+            <h1>EnSierrasChicas Comercios (Angular Firebase)
+            </h1>
+            </p>
+        </li>
+        <li>
+            <p align="left">
+            <h1>KieroKuentos (Flutter Firebase)
+            </h1>
+            </p>
+        </li>
+        <li>
+            <p align="left">
+            <h1>Clinker (Web JS CSS)
+            </h1>
+            </p>
+        </li>
+    </ol>
 </p>
