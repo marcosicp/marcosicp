@@ -30,7 +30,7 @@
     <br>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
+
 
 ✔ I’m currently developing **EnSierrasChicas** **Flutter**<br>
 ✔ I’m currently learning **Flutter** & **Firebase**<br>
@@ -76,19 +76,13 @@
     <ol>
         <li>
             <p align="left">
-            <h1><a href="https://github.com/marcosicp/ensierraschicasapp">EnSierrasChicas (Flutter Firebase)</a>
+            <h1><a href="https://github.com/marcosicp/pos-sales-angular">POS Sales (Angular 10)</a>
             </h1>
             </p>
         </li>
         <li>
             <p align="left">
-            <h1>EnSierrasChicas Comercios (Angular Firebase)
-            </h1>
-            </p>
-        </li>
-        <li>
-            <p align="left">
-            <h1><a href="https://github.com/marcosicp/kierokuentosapp">KieroKuentos (Flutter Firebase)</a>
+            <h1><a href="https://github.com/marcosicp/rugbynewsapp">Rugby News (Flutter Firebase)</a>
             </h1>
             </p>
         </li>
