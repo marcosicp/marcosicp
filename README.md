@@ -72,24 +72,18 @@
     <ol>
         <li>
             <p align="left">
-                <!-- <h1>Projects</h1> -->
-                <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /> -->
             <h1>EnSierrasChicas (Flutter Firebase)
             </h1>
             </p>
         </li>
         <li>
             <p align="left">
-                <!-- <h1>Projects</h1> -->
-                <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /> -->
             <h1>EnSierrasChicas Comercios (Angular Firebase)
             </h1>
             </p>
         </li>
         <li>
             <p align="left">
-                <!-- <h1>Projects</h1> -->
-                <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en" alt="marcosicp" width="410" /> -->
             <h1>KieroKuentos (Flutter Firebase)
             </h1>
             </p>
