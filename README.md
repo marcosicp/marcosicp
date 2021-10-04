@@ -45,12 +45,11 @@
 **Languages** **&** **Tools** **I** **Have** **Use**
 <p align="left">
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
+    <code> <img height="50" src="https://img.icons8.com/fluency/50/000000/docker.png"> </code>
+    <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
+    <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </code>
+    <code> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> </code>
+    <code> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
