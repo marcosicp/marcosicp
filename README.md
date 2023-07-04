@@ -53,33 +53,21 @@
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-    
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> </code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/mariadb-icon.svg" alt="mariadb" width="50px" height="50px"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" width="50px" height="50px" style="max-width: 100%;"></code>
-    
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/xamarin.svg" alt="xamarin" width="50px" height="50px" style="max-width: 100%;"></code>
-    
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="nestjs" width="50px" height="50px" style="max-width: 100%;"></code>
-    
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="reactjs" width="50px" height="50px" style="max-width: 100%;"></code>
-    
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="nodejs" width="50px" height="50px" style="max-width: 100%;"></code>
-    
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="rxjs" width="50px" height="50px" style="max-width: 100%;"></code>
-    
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="bootstrap" width="50px" height="50px" style="max-width: 100%;"></code>
-    
-     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="firebase" width="50px" height="50px" style="max-width: 100%;"></code>
-     
-     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="azure" width="50px" height="50px" style="max-width: 100%;"></code>
-    
+    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="firebase" width="50px" height="50px" style="max-width: 100%;"></code> 
+    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="azure" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jquery" width="50px" height="50px" style="max-width: 100%;"></code>
-    
-    <hr>
 </p>
 <p align="center">
     <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px"
