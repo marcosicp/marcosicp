@@ -31,8 +31,8 @@
     <br>
 </p>
 
-✔ I’m currently developing _C#_ **Angular** **Flutter**<br>
-✔ I’m always learning **Flutter** **Firebase** **Python**<br>
+✔ I’m currently developing **C#.Net** **Angular/React** **Flutter**<br>
+✔ I’m always learning **Mobile-** **Backend-** **Frontend**<br>
 ✔ **Android Studio,** **Visual Studio,** **VSCode** **XCode** rocks!<br>
 ✔ Always open to learn new tech!😉<br>
 <br><br><br>
