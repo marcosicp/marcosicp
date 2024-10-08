@@ -21,7 +21,7 @@
 
 <p align="center">
     <em>
-        Let me tell you about myself, I'am graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Institute</b></a>. <br>
+        
         A <b>Full-Stack Software Developer</b> <img
             src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and
         a <b>Competitive Programming Enthusiast</b>&nbsp;<img
