@@ -21,7 +21,7 @@
 
 <p align="center">
     <em>
-        
+        <br>
         A <b>Full-Stack Software Developer</b> <img
             src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and
         a <b>Competitive Programming Enthusiast</b>&nbsp;<img
